@@ -8,6 +8,6 @@ Admob ads
 # Interstial
 ![](_images/Admob_1.png)
 
-#Reawarded Ad
+# Reawarded Ad
 ![](_images/Admob_3.png)
 
