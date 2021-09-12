@@ -1,13 +1,16 @@
 # AdMobAds_2021
 Admob ads
 
+
+
+
 # ScreenShots
 
-![](_images/Admob_1.png)
+<img src="_images/Admob_1.png" width="250" height="512">
 
 # Interstial
-![](_images/Admob_1.png)
+<img src="_images/Admob_2.png" width="250" height="512">
 
 # Reawarded Ad
-![](_images/Admob_3.png)
+<img src="_images/Admob_3.png" width="250" height="512">
 
